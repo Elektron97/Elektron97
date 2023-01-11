@@ -1,4 +1,9 @@
 ### Hi there 👋
+Welcome to my Github profile! I'm Daniele Caradonna, a PhD student in Biorobotics in Pisa (IT).
+
+- :school_satchel: **My Backgrounds**: Robotics Engineer.
+- :books: **Research interests**: Soft Robotics and Control Theory. 
+- 📫 **How to reach me**:  [Institutional Email](Daniele.Caradonna@santannapisa.it) and [Personal Email](danele.caradonna@gmail.com).
 
 <!--
 **Elektron97/Elektron97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
