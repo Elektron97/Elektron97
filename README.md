@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my Github profile! I'm Daniele Caradonna, a PhD student in Biorobotics in Pisa (IT).
 
-- :school_satchel: **My Backgrounds**: Robotics Engineer.
+- :school_satchel: **My Background**: Robotics Engineer.
 - :books: **Research interests**: Soft Robotics and Control Theory. 
 - 📫 **How to reach me**:  [Institutional Email](Daniele.Caradonna@santannapisa.it) and [Personal Email](danele.caradonna@gmail.com).
 
