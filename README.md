@@ -7,7 +7,7 @@ Welcome to my Github profile! I'm Daniele Caradonna, a PhD student in Biorobotic
 - 🗻 **Hobbies**: Bass Player 🎸, (Too much) 🎮, Hiking ⛺.
 
 
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Elektron97&theme=dracula)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Elektron97&theme=dark)
 
 <!--
 **Elektron97/Elektron97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
