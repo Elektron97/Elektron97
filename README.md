@@ -6,6 +6,8 @@ Welcome to my Github profile! I'm Daniele Caradonna, a PhD student in Biorobotic
 - 📫 **How to reach me**:  [Institutional Email](mailto:Daniele.Caradonna@santannapisa.it) and [Personal Email](mailto:danele.caradonna@gmail.com).
 - 🗻 **Hobbies**: Bass Player 🎸, (Too much) 🎮, Hiking ⛺.
 
+
+[![Elektron97's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elektron97)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Elektron97/Elektron97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
